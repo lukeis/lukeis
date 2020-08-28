@@ -16,7 +16,7 @@
 
 * Senior Member of Technical Staff (MTS) -> Lead MTS -> Principal MTS
 * UI and Java. Using Salesforce libraries [Lightning Web Components (LWC)](https://github.com/salesforce/lwc) and [Aura](https://github.com/forcedotcom/aura).
-  * From the end of 2016 to the beginning of 2019 I worked on the Aura framework team.
+  * From the end of 2016 to the beginning of 2019 I worked on the [Aura framework team](https://github.com/forcedotcom/aura/commits?author=lukeis).
 
 #### Macys.com -- October 2007 - January 2011
 
