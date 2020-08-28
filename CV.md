@@ -8,7 +8,7 @@
 
 * I have strong beliefs in testing to ensure continued quality of a product and that testing is a developement activity.
 
-* Python is my scripting language of choice.
+* Proficient in Java and JavaScript. Python is my scripting language of choice.
 
 ### History
 
