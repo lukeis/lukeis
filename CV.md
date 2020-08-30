@@ -23,16 +23,16 @@
 * Started as a "Senior" developer and was promoted to UI Architect.
 * First started using Java on the job here.
 * Always filled the role of what needed to be done... which led me to code their F5.
-  * Was always a bit uncomfortable to be treated as another "Retail store" employee. 
+* Full-ish stack. YUI / Java
 
 #### Interlink Electronics -- October 2006 - October 2007
 
 * Developed prototype for online signatures using ASP .Net
-  * Look, not every choice I've made is a good one... including working for this company!
 
 #### DolphinSearch (defunct) -- September 2003 - October 2006
 
 * First 'real' software job. Where I learned and used python, which has stuck with me ever since. 
+* Full stack - UI / Python / MySQL
 
 ### Education
 
